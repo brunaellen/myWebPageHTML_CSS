@@ -1,0 +1,15 @@
+body{
+    background: rgb(242, 203, 190);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+em strong{
+    color: darkred;
+}
